@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DatabaseAdminTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-04-01T15:33:25" hostname="Anthonys-MacBook-Pro.local" time="0.01">
+  <properties/>
+  <testcase name="canGetName" classname="DatabaseAdminTest" time="0.001"/>
+  <testcase name="canSetSalary" classname="DatabaseAdminTest" time="0.0"/>
+  <testcase name="canGetNI" classname="DatabaseAdminTest" time="0.0"/>
+  <testcase name="canSetNI" classname="DatabaseAdminTest" time="0.0"/>
+  <testcase name="canGetSalary" classname="DatabaseAdminTest" time="0.001"/>
+  <testcase name="canSetName" classname="DatabaseAdminTest" time="0.001"/>
+  <testcase name="canPayBonus" classname="DatabaseAdminTest" time="0.0"/>
+  <testcase name="canRaiseSalary" classname="DatabaseAdminTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

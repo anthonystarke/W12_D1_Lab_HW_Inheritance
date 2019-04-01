@@ -54,6 +54,6 @@ public class DeveloperTest {
 
     @Test
     public void canPayBonus(){
-        assertEquals(6000,dev.payBonus(),2);
+        assertEquals(600,dev.payBonus(),2);
     }
 }

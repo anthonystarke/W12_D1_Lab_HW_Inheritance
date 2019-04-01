@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DirectorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-01T15:10:02" hostname="Anthonys-MacBook-Pro.local" time="0.001">
+<testsuite name="DirectorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-04-01T15:33:25" hostname="Anthonys-MacBook-Pro.local" time="0.018">
   <properties/>
-  <testcase name="canPayBonus" classname="DirectorTest" time="0.001"/>
+  <testcase name="canGetName" classname="DirectorTest" time="0.0"/>
+  <testcase name="canSetBudget" classname="DirectorTest" time="0.0"/>
+  <testcase name="canGetBudget" classname="DirectorTest" time="0.0"/>
+  <testcase name="canSetSalary" classname="DirectorTest" time="0.0"/>
+  <testcase name="canGetNI" classname="DirectorTest" time="0.0"/>
+  <testcase name="canSetNI" classname="DirectorTest" time="0.003"/>
+  <testcase name="canGetSalary" classname="DirectorTest" time="0.0"/>
+  <testcase name="canGetDeptName" classname="DirectorTest" time="0.001"/>
+  <testcase name="canSetName" classname="DirectorTest" time="0.001"/>
+  <testcase name="canPayBonus" classname="DirectorTest" time="0.0"/>
+  <testcase name="canRaiseSalary" classname="DirectorTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

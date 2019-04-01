@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ManagerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-04-01T15:33:25" hostname="Anthonys-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="canGetName" classname="ManagerTest" time="0.0"/>
+  <testcase name="canSetSalary" classname="ManagerTest" time="0.0"/>
+  <testcase name="canGetNI" classname="ManagerTest" time="0.0"/>
+  <testcase name="canSetNI" classname="ManagerTest" time="0.001"/>
+  <testcase name="canGetSalary" classname="ManagerTest" time="0.001"/>
+  <testcase name="canGetDeptName" classname="ManagerTest" time="0.0"/>
+  <testcase name="canSetName" classname="ManagerTest" time="0.001"/>
+  <testcase name="canPayBonus" classname="ManagerTest" time="0.001"/>
+  <testcase name="canRaiseSalary" classname="ManagerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
